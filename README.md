@@ -4,8 +4,17 @@
 
 This project contains an interactive Excel dashboard for Vrinda Store's annual sales analysis.
 
+## 🎯 Objective
+To design a visually interactive and data-driven Excel dashboard that provides:
+
+- Monthly sales performance overview
+- Customer demographics analysis (Gender & Age Group)
+- Regional performance (Top states)
+- Platform/channel-based sales comparison
+- Order status monitoring
+
 ## 📂 Contents
-- **Vrinda_Store_Dashboard.xlsx** – Main Excel file with pivot tables, slicers, and charts.
+- **Vrinda_Store_Data_Analysis.xlsx** – Main Excel file with pivot tables, slicers, and charts.
 - **dashboard.png** – Image preview of the dashboard.
 - **README.md** – Project overview and insights.
 
