@@ -41,4 +41,3 @@ To design a visually interactive and data-driven Excel dashboard that provides:
 ## 🔗 Connect
 
 - Linkedin : (https://www.linkedin.com/in/khushinigam7/)
-Made by Khushi 
