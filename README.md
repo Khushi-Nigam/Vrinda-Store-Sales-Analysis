@@ -37,7 +37,7 @@ To design a visually interactive and data-driven Excel dashboard that provides:
 - Investigate reasons for year-end sales decline.
 - Explore ways to increase average order value in lean months through different schemes.
 - Maintain excellent delivery rate and customer satisfaction.
-- 
+  
 ## 🔗 Connect
 
 - Linkedin : (https://www.linkedin.com/in/khushinigam7/)
